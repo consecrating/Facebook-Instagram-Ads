@@ -158,8 +158,6 @@ python3 tools/budget-calculator.py --interactive # your own numbers
 | P02 | [Instant Form leads](playbooks/P02-instant-form-leads-200.md) | High lead volume, no website | Yes, learning-limited |
 | P03 | [Website leads + CAPI](playbooks/P03-website-leads.md) | You own a website and Pixel | No — needs higher budget |
 | P04 | [Instagram follower growth](playbooks/P04-instagram-followers.md) | Creators, brands, local retail | Yes |
-| P13 | [Facebook Page likes & followers](playbooks/P13-facebook-page-likes-followers.md) | Local credibility, retargeting asset | Yes |
-| P14 | [Your first 30 days](playbooks/P14-first-30-days.md) | **Day-by-day sequencing for a new advertiser** | Yes |
 | P05 | [E-commerce sales](playbooks/P05-ecommerce-sales.md) | Online stores, D2C | No — needs higher budget |
 | P06 | [Local footfall](playbooks/P06-local-footfall.md) | Shops, clinics, restaurants, gyms | Yes |
 | P07 | [Video → retargeting funnel](playbooks/P07-video-retarget-funnel-200.md) | **The ₹200/day flagship** | **Yes — exits learning** |
@@ -168,15 +166,21 @@ python3 tools/budget-calculator.py --interactive # your own numbers
 | P10 | [App installs](playbooks/P10-app-installs.md) | App businesses | No — needs higher budget |
 | P11 | [Catalog / DPA retargeting](playbooks/P11-catalog-retargeting.md) | E-commerce with a product feed | Partly |
 | P12 | [Scaling ladder](playbooks/P12-scaling-ladder.md) | Going ₹200 → ₹500 → ₹2,000+ | — |
+| P13 | [Facebook Page likes & followers](playbooks/P13-facebook-page-likes-followers.md) | Local credibility, retargeting asset | Yes |
+| P14 | [Your first 30 days](playbooks/P14-first-30-days.md) | **Day-by-day sequencing for a new advertiser** | Yes |
+| **P15** | **[Maximum Followers at Ultra-Low Budgets](playbooks/P15-maximum-followers-ethical.md)** | **Existing pages, ₹50–100/day, ethical growth** | **Yes — 500–650 followers in 30 days** |
 
 ### The four most-asked goals, by platform
 
 | Goal | Facebook | Instagram |
 |---|---|---|
 | **Followers** | [P13](playbooks/P13-facebook-page-likes-followers.md) — placements **Facebook only** | [P04](playbooks/P04-instagram-followers.md) — placements **Instagram only** |
+| **Ultra-low budget followers (₹50–100/day)** | **[P15](playbooks/P15-maximum-followers-ethical.md)** — growth triggers system | **[P15](playbooks/P15-maximum-followers-ethical.md)** — growth triggers system |
 | **Likes / engagement** | [P08](playbooks/P08-engagement-social-proof.md) | [P08](playbooks/P08-engagement-social-proof.md) |
 | **WhatsApp enquiry** | [P00 ⭐](playbooks/P00-BEST-low-budget-campaign.md) · [P01](playbooks/P01-whatsapp-leads-200.md) — one ad set serves both platforms | same |
 | **Lead generation** | [P02](playbooks/P02-instant-form-leads-200.md) forms · [P03](playbooks/P03-website-leads.md) website · [P00](playbooks/P00-BEST-low-budget-campaign.md) WhatsApp | same |
+
+**Ethical follower growth at ultra-low budgets (₹50–100/day):** See [`P15`](playbooks/P15-maximum-followers-ethical.md) + [`data/growth-triggers.md`](data/growth-triggers.md). This is the only playbook in this repo that combines ultra-low budget, ethical triggers (existing followers invite new followers), and platform-specific optimization.
 
 Full per-platform settings: [`reference/facebook-vs-instagram.md`](reference/facebook-vs-instagram.md)
 

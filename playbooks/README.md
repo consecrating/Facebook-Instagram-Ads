@@ -24,6 +24,7 @@ Every playbook is a step-by-step build: exact objective, exact settings, exact c
 | Install my app | [P10](P10-app-installs.md) | ❌ needs high budget |
 | Come back and finish buying | [P11](P11-catalog-retargeting.md) | Partly |
 | I'm profitable and want more | [P12](P12-scaling-ladder.md) | — |
+| **I already have a small page and want maximum followers at ultra-low budget (₹50–100/day)** | **[P15 ⭐](P15-maximum-followers-ethical.md)** | **Yes — 500–650 followers in 30 days** |
 | **I don't know what to do on which day** | **[P14 ⭐](P14-first-30-days.md)** | Yes |
 
 ## By the four most-asked goals
@@ -31,9 +32,12 @@ Every playbook is a step-by-step build: exact objective, exact settings, exact c
 | Goal | Facebook | Instagram |
 |---|---|---|
 | **Followers** | [P13](P13-facebook-page-likes-followers.md) — placements **Facebook only** | [P04](P04-instagram-followers.md) — placements **Instagram only** |
+| **Ultra-low budget followers (₹50–100/day)** | **[P15](P15-maximum-followers-ethical.md)** — growth triggers system | **[P15](P15-maximum-followers-ethical.md)** — growth triggers system |
 | **Likes / engagement** | [P08](P08-engagement-social-proof.md) — both platforms | [P08](P08-engagement-social-proof.md) — both platforms |
 | **WhatsApp enquiry** | [P00](P00-BEST-low-budget-campaign.md) ⭐ · [P01](P01-whatsapp-leads-200.md) — one ad set covers both | same |
 | **Lead generation** | [P02](P02-instant-form-leads-200.md) forms · [P03](P03-website-leads.md) website · [P00](P00-BEST-low-budget-campaign.md) WhatsApp | same |
+
+**Ethical follower growth at ultra-low budgets (₹50–100/day):** See [`P15`](P15-maximum-followers-ethical.md) + [`../data/growth-triggers.md`](../data/growth-triggers.md). This is the only playbook in this repo that combines ultra-low budget, ethical triggers (existing followers invite new followers), and platform-specific optimization.
 
 **Exact settings for each goal on each platform:** [`../reference/facebook-vs-instagram.md`](../reference/facebook-vs-instagram.md)
 
