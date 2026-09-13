@@ -28,12 +28,27 @@
 
 10. What should someone DO after seeing your ad?
     - Message you on WhatsApp
+    - Message you on Instagram (DM)
     - Fill a form so you can call them
     - Visit your website
     - Buy online
     - Come to your shop/clinic
     - Book an appointment
-    - Follow your Instagram
+    - **Follow your Instagram**
+    - **Like/follow your Facebook Page**
+    - **Like/comment/share your post** (credibility)
+
+    > If they pick a follower or like goal, ask the honest follow-up:
+    > **"What will you do with those followers, and what is one worth to you in ₹?"**
+    > If they can't answer, say so plainly and recommend a WhatsApp or lead
+    > campaign instead. Followers and likes are only worth buying if they're
+    > monetised — the durable value is the retargetable audience, not the count.
+
+10b. **Which platform matters more to you — Facebook, Instagram, or both?**
+    > For WhatsApp/leads/sales: run **both** in one ad set (never split at low
+    > budget). For follower goals the placement must be restricted to one
+    > platform, so they must choose. See
+    > [`../reference/facebook-vs-instagram.md`](../reference/facebook-vs-instagram.md)
 11. How do you currently get customers, and what's worked before?
 12. **Can you reply to an enquiry within 5 minutes during business hours?** Who will do it?
 
@@ -75,6 +90,7 @@
 ```
 Q5, Q6, Q7  →  Affordable CPL = revenue × margin × 0.30 × close rate
 Q10         →  optimization event + its rung on the ladder
+Q10b        →  placement setting: both platforms, or restricted to one
 Q8          →  compare against learning floor = 7.143 × event cost
 Q12         →  whether WhatsApp/forms are viable at all
 Q13         →  which setup/ files are needed first

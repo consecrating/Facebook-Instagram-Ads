@@ -139,4 +139,25 @@ Next             Retarget that audience via P00 or P07
 
 ---
 
-**Related:** [`P07`](P07-video-retarget-funnel-200.md) · [`P04`](P04-instagram-followers.md) · [`P00`](P00-BEST-low-budget-campaign.md)
+---
+
+## If you specifically want *likes*
+
+This playbook is where "getting likes" belongs — but be clear about what likes are for.
+
+**Likes are worth buying for exactly two reasons:**
+1. **Social proof** on a post you'll reuse in later ad campaigns (via the Post ID mechanic above)
+2. **A retargetable audience** of people who engaged
+
+**Likes are not a business outcome.** Meta's delivery does exactly what you ask: optimize for likes and it finds people who are good at clicking like — a different population from people who buy.
+
+| You want | Use |
+|---|---|
+| Likes/comments/shares on posts | **This playbook** — both platforms, Advantage+ placements ON |
+| Facebook **Page** likes/followers | [`P13`](P13-facebook-page-likes-followers.md) — Facebook-only placements |
+| Instagram followers | [`P04`](P04-instagram-followers.md) — Instagram-only placements |
+| Actual enquiries and customers | [`P00`](P00-BEST-low-budget-campaign.md) |
+
+---
+
+**Related:** [`P13`](P13-facebook-page-likes-followers.md) · [`P04`](P04-instagram-followers.md) · [`P07`](P07-video-retarget-funnel-200.md) · [`P00`](P00-BEST-low-budget-campaign.md) · [`../reference/facebook-vs-instagram.md`](../reference/facebook-vs-instagram.md)

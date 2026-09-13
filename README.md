@@ -129,6 +129,7 @@ If you cannot browse or follow links, ask the user to paste
 | [`data/verticals-india.md`](data/verticals-india.md) | Vertical-specific questions and considerations for Indian businesses. Contains no hardcoded assumption about *your* business |
 | [`setup/`](setup/) | Account, Page, India payments + GST, Pixel/CAPI, WhatsApp Business, Instant Forms |
 | [`playbooks/`](playbooks/) | 12 step-by-step campaign builds, each with exact clicks and a budget check |
+| [`reference/facebook-vs-instagram.md`](reference/facebook-vs-instagram.md) | **Exact settings per goal, per platform** — followers, likes, WhatsApp enquiries, lead gen, on Facebook vs Instagram |
 | [`reference/`](reference/) | India targeting, creative specs, ₹-ready copy templates, policy/Special Ad Categories, metrics, troubleshooting |
 | [`prompts/`](prompts/) | The kickoff prompt and the intake question set |
 
@@ -140,6 +141,7 @@ If you cannot browse or follow links, ask the user to paste
 | P02 | [Instant Form leads](playbooks/P02-instant-form-leads-200.md) | High lead volume, no website | Yes, learning-limited |
 | P03 | [Website leads + CAPI](playbooks/P03-website-leads.md) | You own a website and Pixel | No — needs higher budget |
 | P04 | [Instagram follower growth](playbooks/P04-instagram-followers.md) | Creators, brands, local retail | Yes |
+| P13 | [Facebook Page likes & followers](playbooks/P13-facebook-page-likes-followers.md) | Local credibility, retargeting asset | Yes |
 | P05 | [E-commerce sales](playbooks/P05-ecommerce-sales.md) | Online stores, D2C | No — needs higher budget |
 | P06 | [Local footfall](playbooks/P06-local-footfall.md) | Shops, clinics, restaurants, gyms | Yes |
 | P07 | [Video → retargeting funnel](playbooks/P07-video-retarget-funnel-200.md) | **The ₹200/day flagship** | **Yes — exits learning** |
@@ -148,6 +150,17 @@ If you cannot browse or follow links, ask the user to paste
 | P10 | [App installs](playbooks/P10-app-installs.md) | App businesses | No — needs higher budget |
 | P11 | [Catalog / DPA retargeting](playbooks/P11-catalog-retargeting.md) | E-commerce with a product feed | Partly |
 | P12 | [Scaling ladder](playbooks/P12-scaling-ladder.md) | Going ₹200 → ₹500 → ₹2,000+ | — |
+
+### The four most-asked goals, by platform
+
+| Goal | Facebook | Instagram |
+|---|---|---|
+| **Followers** | [P13](playbooks/P13-facebook-page-likes-followers.md) — placements **Facebook only** | [P04](playbooks/P04-instagram-followers.md) — placements **Instagram only** |
+| **Likes / engagement** | [P08](playbooks/P08-engagement-social-proof.md) | [P08](playbooks/P08-engagement-social-proof.md) |
+| **WhatsApp enquiry** | [P00 ⭐](playbooks/P00-BEST-low-budget-campaign.md) · [P01](playbooks/P01-whatsapp-leads-200.md) — one ad set serves both platforms | same |
+| **Lead generation** | [P02](playbooks/P02-instant-form-leads-200.md) forms · [P03](playbooks/P03-website-leads.md) website · [P00](playbooks/P00-BEST-low-budget-campaign.md) WhatsApp | same |
+
+Full per-platform settings: [`reference/facebook-vs-instagram.md`](reference/facebook-vs-instagram.md)
 
 ---
 

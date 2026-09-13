@@ -151,4 +151,21 @@ Prerequisite     9-12 good posts + a converting profile
 
 ---
 
-**Related:** [`P08`](P08-engagement-social-proof.md) for credibility · [`P00`](P00-BEST-low-budget-campaign.md) if you want enquiries instead
+---
+
+## Growing Facebook instead (or as well)
+
+This playbook is **Instagram only**. For Facebook Page likes/followers, use [`P13`](P13-facebook-page-likes-followers.md) — different conversion location, and you must restrict placements to **Facebook only**.
+
+| | Instagram (this playbook) | Facebook ([P13](P13-facebook-page-likes-followers.md)) |
+|---|---|---|
+| Cost per follower in India | Usually higher | Usually cheaper |
+| Organic reach to followers | Better, especially Reels | Very low |
+| Best for | Creators, visual products, under-35 | Local services, credibility, Tier-2/3 |
+| Placements | **Instagram only** | **Facebook only** |
+
+**Don't run both in one ad set.** The placement restriction is what makes each work, and they're mutually exclusive. Run one, or run two separate campaigns once your budget is above ~₹600/day.
+
+---
+
+**Related:** [`P13`](P13-facebook-page-likes-followers.md) Facebook followers · [`P08`](P08-engagement-social-proof.md) for credibility · [`P00`](P00-BEST-low-budget-campaign.md) if you want enquiries instead · [`../reference/facebook-vs-instagram.md`](../reference/facebook-vs-instagram.md)

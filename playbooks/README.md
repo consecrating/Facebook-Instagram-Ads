@@ -14,15 +14,27 @@ Every playbook is a step-by-step build: exact objective, exact settings, exact c
 | Message me — advanced variants | [P01](P01-whatsapp-leads-200.md) | Yes (learning-limited) |
 | Fill a form (I have no website) | [P02](P02-instant-form-leads-200.md) | Yes (learning-limited) |
 | Enquire on my website | [P03](P03-website-leads.md) | ❌ needs ~₹1,800/day |
-| Follow my Instagram | [P04](P04-instagram-followers.md) | Yes |
+| Follow my **Instagram** | [P04](P04-instagram-followers.md) | Yes |
+| Like/follow my **Facebook Page** | [P13](P13-facebook-page-likes-followers.md) | Yes |
 | Buy from my online store | [P05](P05-ecommerce-sales.md) | ❌ needs ~₹3,000+/day |
 | Visit my shop/clinic | [P06](P06-local-footfall.md) | Yes |
 | Nothing yet — I have almost no budget | **[P07 ⭐](P07-video-retarget-funnel-200.md)** | **Yes — actually exits learning** |
-| Engage, so my page looks credible | [P08](P08-engagement-social-proof.md) | Yes |
+| Like/comment/share, for credibility | [P08](P08-engagement-social-proof.md) | Yes |
 | Book an appointment | [P09](P09-appointment-booking.md) | Yes (learning-limited) |
 | Install my app | [P10](P10-app-installs.md) | ❌ needs high budget |
 | Come back and finish buying | [P11](P11-catalog-retargeting.md) | Partly |
 | I'm profitable and want more | [P12](P12-scaling-ladder.md) | — |
+
+## By the four most-asked goals
+
+| Goal | Facebook | Instagram |
+|---|---|---|
+| **Followers** | [P13](P13-facebook-page-likes-followers.md) — placements **Facebook only** | [P04](P04-instagram-followers.md) — placements **Instagram only** |
+| **Likes / engagement** | [P08](P08-engagement-social-proof.md) — both platforms | [P08](P08-engagement-social-proof.md) — both platforms |
+| **WhatsApp enquiry** | [P00](P00-BEST-low-budget-campaign.md) ⭐ · [P01](P01-whatsapp-leads-200.md) — one ad set covers both | same |
+| **Lead generation** | [P02](P02-instant-form-leads-200.md) forms · [P03](P03-website-leads.md) website · [P00](P00-BEST-low-budget-campaign.md) WhatsApp | same |
+
+**Exact settings for each goal on each platform:** [`../reference/facebook-vs-instagram.md`](../reference/facebook-vs-instagram.md)
 
 ---
 
@@ -45,7 +57,7 @@ Computed from the learning-phase floor: `daily budget ≥ 7.143 × cost per opti
 | Playbook | Optimization event | Rough floor to exit learning |
 |---|---|---|
 | P07 | ThruPlay / video view | **~₹30–100/day** ✅ |
-| P04, P08 | Engagement / profile visit | ~₹50–200/day ✅ |
+| P04, P08, P13 | Engagement / profile visit / Page like | ~₹50–200/day ✅ |
 | P06 | Landing page view / message | ~₹100–400/day ✅ |
 | P00, P01 | WhatsApp conversation | ~₹200–500/day ⚠️ |
 | P02, P09 | Instant Form lead | ~₹300–700/day ⚠️ |
@@ -64,7 +76,7 @@ These come up in every single build. They're collected here so each playbook doe
 
 1. **One campaign → one ad set → three ads.** Under ₹1,000/day, never split into multiple ad sets. Splitting is the most common and most expensive low-budget mistake.
 2. **Advantage+ Audience ON, suggestion fields empty.** Interest stacking at low budget starves the algorithm. Targeting inputs are treated as signals anyway, not hard boundaries.
-3. **Advantage+ placements ON.** More placements = more auctions = cheaper results.
+3. **Advantage+ placements ON — with three exceptions.** More placements = more auctions = cheaper results. Restrict manually only for: Facebook follower campaigns (**Facebook only**, [P13](P13-facebook-page-likes-followers.md)), Instagram follower campaigns (**Instagram only**, [P04](P04-instagram-followers.md)), and platform-specific creative. Never split Facebook and Instagram into separate ad sets at low budget.
 4. **Highest volume bidding.** No cost caps at low budget — they throttle delivery to nothing. (Also: a cost-per-result goal requires daily budget ≥ 5× the target cost.)
 5. **CBO / Advantage campaign budget OFF.** With one ad set there's nothing to optimize across.
 6. **No edits for 7 days.** Significant edits reset the ~50-event learning clock. Changing budget on Day 3 because "it's not working" is how ₹6,000 disappears with nothing learned.

@@ -259,15 +259,32 @@ PHASE 2 — ₹80/day  (start only when audience ≥ ~1,000 people)
 | They want | Objective + conversion location | Works at ₹200/day? |
 |---|---|---|
 | WhatsApp enquiries | Engagement → WhatsApp | Yes, learning-limited |
+| Instagram DMs instead | Engagement → Instagram Direct | Yes, learning-limited |
 | Form leads, no website | Leads → Instant forms | Yes, learning-limited |
 | Website enquiries | Leads → Website (Pixel) | ❌ ~₹1,800/day |
-| Instagram followers | Engagement → IG profile visits, **Instagram-only placements** | Yes |
+| **Instagram followers** | Engagement → IG profile visits, **Instagram-only placements** | Yes |
+| **Facebook Page likes/followers** | Engagement → **On your Page** → Maximise Page likes, **Facebook-only placements** | Yes |
+| **Likes / engagement** | Engagement → On your post → Maximise engagement, both platforms | Yes |
 | Online sales | Sales → Website, Purchase | ❌ ~₹3,000+/day |
 | Shop footfall | Engagement → WhatsApp, tight 5 km radius | Yes |
 | Nothing yet / no audience | **Part 4 funnel** | ✅ exits learning |
-| Credibility first | Engagement → On your post, ₹100-200/day, 2-4 weeks | Yes |
 | Appointments | Engagement → WhatsApp, **sell the free appointment** | Yes |
 | Cart recovery | Sales + Catalog ON, cart abandoners 7-14d, Advantage+ OFF | Partly |
+
+### Facebook vs Instagram — the placement rule
+
+**Default: Advantage+ placements ON, both platforms.** Meta serves wherever it's cheapest, which lowers your cost. **Never split Facebook and Instagram into separate ad sets at low budget** — it halves the learning signal for both.
+
+**Restrict placements manually in only two cases:**
+- **Facebook Page followers** → Manual → **Facebook only** (an Instagram impression can't grow a Facebook Page)
+- **Instagram followers** → Manual → **Instagram only** (a Facebook click can't grow an Instagram account)
+
+**Platform notes:**
+- Facebook: *like* and *follow* are now separate. You can only optimize for **likes**, but **follows** decide who sees your posts. Track both
+- Instagram: there is **no "get followers" event**. Profile visits is the proxy — your *profile* does the converting, so fix bio and pinned posts first
+- Instagram Instant Forms pre-fill less completely than Facebook's → **use fewer fields for Instagram**
+- Instagram Direct and Messenger are alternatives to WhatsApp as conversion locations. **WhatsApp usually wins in India**
+- Upload a separate **9:16** asset — otherwise you lose Reels/Stories, the cheapest inventory on both platforms
 
 ---
 
