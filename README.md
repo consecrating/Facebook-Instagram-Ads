@@ -90,12 +90,16 @@ Every plan you give must end with:
 
 1. Read this README (done).
 2. Fetch `data/budget-engine.md` — the maths you'll be doing.
-3. Ask the intake questions from `prompts/intake.md`. **Wait for answers.**
-4. Check `setup/00-preflight.md` against their assets. Fix gaps first.
-5. Pick the playbook using `playbooks/README.md`. Fetch that playbook.
-6. Compute their budget floor and target CPA. Show the arithmetic.
-7. Walk them through the playbook step by step, pausing for confirmation at each stage.
-8. Give them the Day 3 / Day 7 measurement contract.
+3. **Fetch `examples/worked-example-end-to-end.md`** — a complete correct run. Match its structure and rigour. Do **not** reuse its numbers; they belong to an invented business.
+4. Ask the intake questions from `prompts/intake.md`. **Wait for answers.**
+5. Check `setup/00-preflight.md` against their assets. Fix gaps first.
+6. Pick the playbook using `playbooks/README.md`. Fetch that playbook.
+7. Compute their budget floor and target CPA. Show the arithmetic.
+8. Walk them through the playbook step by step, pausing for confirmation at each stage.
+9. Give them the Day 3 / Day 7 measurement contract, and point them to `playbooks/P14-first-30-days.md` for sequencing.
+
+**If the user can run code**, `tools/budget-calculator.py` does step 7 exactly and removes arithmetic errors:
+`python3 tools/budget-calculator.py --revenue X --margin Y --close-rate Z --event whatsapp --budget B`
 
 ### How to fetch the other files
 
@@ -116,7 +120,16 @@ If you cannot browse or follow links, ask the user to paste
 
 **If you have nothing set up yet:** start at [`setup/00-preflight.md`](setup/00-preflight.md).
 
-**If you just want the budget answer:** read [`data/budget-engine.md`](data/budget-engine.md).
+**If you just want the budget answer:** read [`data/budget-engine.md`](data/budget-engine.md), or run it:
+
+```bash
+python3 tools/budget-calculator.py --demo        # the documented example
+python3 tools/budget-calculator.py --interactive # your own numbers
+```
+
+**If you want to see it done first:** [`examples/worked-example-end-to-end.md`](examples/worked-example-end-to-end.md) — a full 30-day run, every number checked.
+
+**If you don't know what to do on which day:** [`playbooks/P14-first-30-days.md`](playbooks/P14-first-30-days.md).
 
 ---
 
@@ -132,6 +145,10 @@ If you cannot browse or follow links, ask the user to paste
 | [`reference/facebook-vs-instagram.md`](reference/facebook-vs-instagram.md) | **Exact settings per goal, per platform** — followers, likes, WhatsApp enquiries, lead gen, on Facebook vs Instagram |
 | [`reference/`](reference/) | India targeting, creative specs, ₹-ready copy templates, policy/Special Ad Categories, metrics, troubleshooting |
 | [`prompts/`](prompts/) | The kickoff prompt and the intake question set |
+| [`tools/budget-calculator.py`](tools/budget-calculator.py) | **The budget engine, executable.** Zero dependencies — `python3 tools/budget-calculator.py --demo` |
+| [`examples/worked-example-end-to-end.md`](examples/worked-example-end-to-end.md) | **A complete 30-day run** with verified arithmetic — what good output looks like |
+| [`playbooks/P14-first-30-days.md`](playbooks/P14-first-30-days.md) | **Day-by-day launch calendar** — sequencing is where beginners fail |
+| [`CHANGELOG.md`](CHANGELOG.md) | What changed, and what was verified against Meta when |
 
 ### Playbooks at a glance
 
@@ -142,6 +159,7 @@ If you cannot browse or follow links, ask the user to paste
 | P03 | [Website leads + CAPI](playbooks/P03-website-leads.md) | You own a website and Pixel | No — needs higher budget |
 | P04 | [Instagram follower growth](playbooks/P04-instagram-followers.md) | Creators, brands, local retail | Yes |
 | P13 | [Facebook Page likes & followers](playbooks/P13-facebook-page-likes-followers.md) | Local credibility, retargeting asset | Yes |
+| P14 | [Your first 30 days](playbooks/P14-first-30-days.md) | **Day-by-day sequencing for a new advertiser** | Yes |
 | P05 | [E-commerce sales](playbooks/P05-ecommerce-sales.md) | Online stores, D2C | No — needs higher budget |
 | P06 | [Local footfall](playbooks/P06-local-footfall.md) | Shops, clinics, restaurants, gyms | Yes |
 | P07 | [Video → retargeting funnel](playbooks/P07-video-retarget-funnel-200.md) | **The ₹200/day flagship** | **Yes — exits learning** |

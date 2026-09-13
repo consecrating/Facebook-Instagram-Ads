@@ -24,6 +24,7 @@ Every playbook is a step-by-step build: exact objective, exact settings, exact c
 | Install my app | [P10](P10-app-installs.md) | ❌ needs high budget |
 | Come back and finish buying | [P11](P11-catalog-retargeting.md) | Partly |
 | I'm profitable and want more | [P12](P12-scaling-ladder.md) | — |
+| **I don't know what to do on which day** | **[P14 ⭐](P14-first-30-days.md)** | Yes |
 
 ## By the four most-asked goals
 
@@ -35,6 +36,14 @@ Every playbook is a step-by-step build: exact objective, exact settings, exact c
 | **Lead generation** | [P02](P02-instant-form-leads-200.md) forms · [P03](P03-website-leads.md) website · [P00](P00-BEST-low-budget-campaign.md) WhatsApp | same |
 
 **Exact settings for each goal on each platform:** [`../reference/facebook-vs-instagram.md`](../reference/facebook-vs-instagram.md)
+
+---
+
+## Brand new to this?
+
+Read **[P14 — Your First 30 Days](P14-first-30-days.md)**. It sequences everything below into a day-by-day calendar, and sequencing is where most beginners lose money — not settings.
+
+Then see it done: [`../examples/worked-example-end-to-end.md`](../examples/worked-example-end-to-end.md) — a complete run with every number verified.
 
 ---
 

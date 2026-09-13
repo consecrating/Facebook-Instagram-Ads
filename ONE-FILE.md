@@ -394,5 +394,57 @@ Effective CPL     = spend ÷ leads REACHED   = ₹____   ← the honest number
 
 ---
 
-*Full repository, with 13 detailed playbooks and step-by-step setup guides:*
+---
+
+## PART 13 — IF THE USER CAN RUN CODE
+
+The repo ships `tools/budget-calculator.py` — zero dependencies, Python 3.8+, stdlib only. It does Part 1 and Part 2 exactly, removing arithmetic errors.
+
+```bash
+python3 tools/budget-calculator.py --demo          # documented example
+python3 tools/budget-calculator.py --table         # learning-floor table
+python3 tools/budget-calculator.py --interactive   # their own numbers
+
+python3 tools/budget-calculator.py \
+  --revenue 1800 --margin 55 --close-rate 40 \
+  --event whatsapp --event-cost 45 --budget 200
+```
+
+Events: `impression` `thruplay` `pagelike` `profile` `landingpage` `whatsapp` `instagramdm` `form` `weblead` `purchase`
+
+It outputs T2/T3, the affordability check, whether the stated budget clears the floor, the four options if it doesn't, the rung ladder, and which playbook to open. **Omitting `--event-cost` makes it use a wide prior and label the result PROVISIONAL** — by design.
+
+---
+
+## PART 14 — SEQUENCING (the 30-day shape)
+
+Settings matter less than order. Compressed from `playbooks/P14-first-30-days.md`:
+
+```
+WEEK 0  Setup. Page complete + 5-10 posts · Business Manager · INR + Asia/Kolkata
+        · payment PROVEN with a real ₹100 charge · WhatsApp verified in the
+        Ads Manager dropdown · creative ready (9:16 + 4:5, captions)
+        · reply capacity confirmed · budget COMPUTED and estimate written down
+
+WEEK 1  Launch. Create retargeting audiences on Day 1 so they start filling.
+        Day 3 = breakage check ONLY. Reply within 5 minutes. NO EDITS.
+        Day 7 = first real measurement. Compute actual cost per event.
+
+WEEK 2  Day 8 = the first real decision (profitable? above floor? offer problem?).
+        Track B: launch Phase 2 if the video audience passed ~1,000.
+        If you raised budget, learning just reset — no edits until Day 15.
+
+WEEK 3  Creative week. Frequency above 3 → rotate the weakest ad for a new
+        ANGLE, keep the winner. Then work on lead quality.
+
+WEEK 4  Day 22 scaling gate: exited learning · profitable · closed real
+        customers · can handle 2x volume. Then +20% every 4 days.
+        Day 30 review — CONTRIBUTION is the only line that matters.
+```
+
+**Two tracks:** Direct (budget reaches the computed floor → P00 in week 1) or Funnel (₹200/day hard ceiling → P07 Phase 1 first, enquiries arrive week 2–3, but costs compound downward).
+
+---
+
+*Full repository — 15 playbooks, setup guides, an executable calculator and a fully worked example:*
 **https://github.com/consecrating/Facebook-Instagram-Ads**

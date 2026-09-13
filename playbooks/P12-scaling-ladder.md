@@ -193,4 +193,41 @@ SCALE DOWN       by 20-30%, never pause to zero
 
 ---
 
-**Related:** [`../data/best-budget-recommender.md`](../data/best-budget-recommender.md) · [`P01` Variant D](P01-whatsapp-leads-200.md) · [`../reference/troubleshooting.md`](../reference/troubleshooting.md)
+---
+
+## Splitting Facebook and Instagram — a scaling decision, not a starting one
+
+At low budget you keep both platforms in **one** ad set. Splitting them is a **horizontal** scaling move that only becomes valid later.
+
+### When splitting by platform is legitimate
+
+**All of these must be true:**
+- [ ] Total budget **above ~₹600/day** (so each ad set clears its own learning floor)
+- [ ] Vertical scaling has stalled — frequency above 3 and rising costs that budget increases don't fix
+- [ ] **Placement breakdown shows a sustained, meaningful gap** — not one good week
+- [ ] You have creative suited to each platform (9:16 for Instagram, not a crop)
+
+### How to read the breakdown
+
+**Breakdown → By delivery → Placement**, on a 14-day window minimum.
+
+| What you see | What it means | Action |
+|---|---|---|
+| One platform much cheaper, sustained | Real preference | Consider splitting — or just let Advantage+ keep favouring it |
+| Roughly equal | Working as intended | **Don't split.** Nothing to gain |
+| Instagram expensive, but you only uploaded 4:5 | Creative problem, not platform problem | Add 9:16 before concluding anything |
+| Small differences week to week | Noise | Ignore |
+
+> ⚠️ **The most common mistake here:** concluding Instagram "doesn't work" when you never uploaded a vertical asset. Advantage+ was serving cropped creative into Reels and Stories. Fix the creative before splitting.
+
+### The honest counter-argument
+
+**Advantage+ placements already shifts budget toward whichever platform is cheaper, continuously, without you managing it.** Splitting takes that job away from the algorithm and gives it to you — along with two learning phases to feed instead of one.
+
+Split only when you have a *specific* reason: platform-specific creative you want to control, or a genuine sustained cost gap you intend to fund differently. **"To see which works better" is not a reason** — the placement breakdown already tells you that without splitting.
+
+Full per-goal settings: [`../reference/facebook-vs-instagram.md`](../reference/facebook-vs-instagram.md)
+
+---
+
+**Related:** [`../data/best-budget-recommender.md`](../data/best-budget-recommender.md) · [`P01` Variant D](P01-whatsapp-leads-200.md) · [`../reference/troubleshooting.md`](../reference/troubleshooting.md) · [`../reference/facebook-vs-instagram.md`](../reference/facebook-vs-instagram.md)

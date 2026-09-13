@@ -172,4 +172,29 @@ Next step        P11 catalog retargeting
 
 ---
 
-**Related:** [`P11`](P11-catalog-retargeting.md) · [`P00`](P00-BEST-low-budget-campaign.md) · [`../setup/03-pixel-and-capi.md`](../setup/03-pixel-and-capi.md)
+---
+
+## Facebook vs Instagram for e-commerce
+
+**Run both in one ad set.** Do not split — you'd halve the conversion signal on each, and purchase events are already the hardest rung to accumulate.
+
+| | Facebook | Instagram |
+|---|---|---|
+| Strength | Marketplace, older buyers, Tier-2/3 reach | Product discovery, visual browsing |
+| Best placements | Feed, Video Feeds, Marketplace | **Reels, Explore, Feed** |
+| Best format | Carousel, static + price | **Reels video, carousel** |
+| Buyer skew | Broader age range, often more price-led | Younger, more brand/aesthetic-led |
+| COD messaging | Works well — say it plainly | Works well |
+
+**Practical notes:**
+- **Instagram Reels and Explore are usually your cheapest discovery inventory** for D2C. Always upload a 9:16 asset or you forfeit them
+- **Facebook Marketplace** can deliver very cheap traffic for physical goods — Advantage+ placements will find it for you
+- If you have a **catalog**, connect it so both platforms can serve dynamic product ads → [P11](P11-catalog-retargeting.md)
+- Check **Breakdown → Placement** only once you're above ~₹1,000/day. Below that the split is too thin to act on
+- If one platform clearly wins at scale, splitting by platform is a legitimate *horizontal* scaling move — but only above ~₹600/day → [P12](P12-scaling-ladder.md)
+
+Full per-goal settings: [`../reference/facebook-vs-instagram.md`](../reference/facebook-vs-instagram.md)
+
+---
+
+**Related:** [`P11`](P11-catalog-retargeting.md) · [`P00`](P00-BEST-low-budget-campaign.md) · [`../setup/03-pixel-and-capi.md`](../setup/03-pixel-and-capi.md) · [`../reference/facebook-vs-instagram.md`](../reference/facebook-vs-instagram.md)

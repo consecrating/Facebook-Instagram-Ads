@@ -90,6 +90,32 @@ You should get:
 
 If you get a generic listicle instead, the assistant hasn't read the README. Point it back.
 
+**Want to see a correct answer before you ask for yours?**
+Open [`../examples/worked-example-end-to-end.md`](../examples/worked-example-end-to-end.md) — a complete 30-day run, every number checked. That's the standard to hold ChatGPT to.
+
+---
+
+## Check the maths yourself
+
+You don't have to trust anyone's arithmetic, including ChatGPT's:
+
+```bash
+python3 tools/budget-calculator.py --interactive
+```
+
+Zero dependencies, nothing leaves your machine. If ChatGPT's recommended budget doesn't match the calculator's, the calculator is right — ask ChatGPT to redo it.
+
+---
+
+## Don't know what to do on which day?
+
+Ask for the calendar:
+
+```
+Walk me through playbooks/P14-first-30-days.md for my situation.
+Tell me which track I'm on and what I do this week.
+```
+
 ---
 
 **Next:** [`intake.md`](intake.md) — the questions it should ask you

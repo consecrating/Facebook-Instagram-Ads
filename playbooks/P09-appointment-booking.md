@@ -176,4 +176,35 @@ Deposit          even ₹100 transforms show-up rates
 
 ---
 
-**Related:** [`P00`](P00-BEST-low-budget-campaign.md) · [`P06`](P06-local-footfall.md) · [`P02`](P02-instant-form-leads-200.md)
+---
+
+## Facebook vs Instagram for bookings
+
+**Run both in one ad set.** Booking events are already scarce at low budget; splitting makes learning worse.
+
+| | Facebook | Instagram |
+|---|---|---|
+| Audience skew | Older — better for clinics, dental, diagnostics, tuition | Younger — better for salon, spa, fitness, aesthetics |
+| Booking channel | WhatsApp, Messenger, Instant Form | WhatsApp, **Instagram Direct** |
+| Trust signals | Reviews, Page history, address | Visual portfolio, Reels, Highlights |
+| Format that works | Static + clear offer, testimonial video | Reels showing the space/process |
+
+**The channel decision:**
+
+| Conversion location | When to use |
+|---|---|
+| **WhatsApp** ⭐ | Default. Follow-up, reminders and rescheduling all work, and you keep the contact |
+| **Instagram Direct** | Your audience is young and Instagram-native and won't leave the app |
+| **Instant Form** | You need structured details before contact ([P02](P02-instant-form-leads-200.md)) |
+
+**WhatsApp is usually right in India** — the confirmation sequence in Step 4 depends on being able to message reliably before the appointment, and that's where no-shows are actually won.
+
+**Instagram-specific caution:** Instagram Direct conversations are easy to start and easy to abandon. If you use it, your greeting message and reply speed matter even more than on WhatsApp.
+
+**Vertical routing:** clinics, dental, diagnostics, tuition → lean Facebook. Salon, spa, fitness, aesthetics → lean Instagram, and make Reels of the actual space. Both still run in the one ad set; you're just choosing where the creative effort goes.
+
+Full per-goal settings: [`../reference/facebook-vs-instagram.md`](../reference/facebook-vs-instagram.md)
+
+---
+
+**Related:** [`P00`](P00-BEST-low-budget-campaign.md) · [`P06`](P06-local-footfall.md) · [`P02`](P02-instant-form-leads-200.md) · [`../reference/facebook-vs-instagram.md`](../reference/facebook-vs-instagram.md)

@@ -161,4 +161,27 @@ Never            shift all budget from prospecting to retargeting
 
 ---
 
-**Related:** [`P05`](P05-ecommerce-sales.md) · [`../setup/03-pixel-and-capi.md`](../setup/03-pixel-and-capi.md) · [`P12`](P12-scaling-ladder.md)
+---
+
+## Facebook vs Instagram for catalog retargeting
+
+**Run both — and here it matters more than usual.** Your retargeting audience is small, so you want every available placement to find those people cheaply. Restricting platforms would push frequency up fast.
+
+| | Facebook | Instagram |
+|---|---|---|
+| Dynamic product ads | ✅ Feed, Marketplace, Video Feeds, right column | ✅ Feed, **Explore**, Stories, Reels |
+| Best format | Carousel, Collection | **Carousel, Collection, Reels** |
+| Strength | Broad reach across age groups | Visual browsing; Explore is strong for retargeting |
+
+**Practical notes:**
+- **Keep Advantage+ placements ON.** With a small audience you need breadth to keep frequency down — this is the opposite of the usual "narrow your retargeting" instinct
+- **Instagram Explore** is a genuinely strong retargeting surface for product ads — people are already in browse mode
+- **Watch frequency, not placement.** Above ~3.0 on a 7-day window, reduce budget or widen the audience window (7 days → 14 days). Restricting a platform is the wrong lever here
+- **Product images must read at small sizes** on both platforms — clean background, single focal product. Instagram Explore renders them small
+- Ensure `content_ids` match between Pixel and catalog, or dynamic ads break identically on both platforms
+
+Full per-goal settings: [`../reference/facebook-vs-instagram.md`](../reference/facebook-vs-instagram.md)
+
+---
+
+**Related:** [`P05`](P05-ecommerce-sales.md) · [`../setup/03-pixel-and-capi.md`](../setup/03-pixel-and-capi.md) · [`P12`](P12-scaling-ladder.md) · [`../reference/facebook-vs-instagram.md`](../reference/facebook-vs-instagram.md)

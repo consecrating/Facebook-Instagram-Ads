@@ -172,4 +172,28 @@ Attribution      Offer code + "how did you hear about us" log
 
 ---
 
-**Related:** [`P00`](P00-BEST-low-budget-campaign.md) · [`P09`](P09-appointment-booking.md) · [`../reference/targeting-india.md`](../reference/targeting-india.md)
+---
+
+## Facebook vs Instagram for local business
+
+**Run both in one ad set.** Your radius is already narrow — narrowing further by platform starves delivery.
+
+| | Facebook | Instagram |
+|---|---|---|
+| Local strength | ⭐ Usually stronger — Marketplace, older residents, Tier-2/3 | Younger, visual-led categories |
+| Best for | Repair services, hardware, clinics, tuition, home services | Cafés, salons, boutiques, gyms, dessert/food |
+| Placements | Feed, Marketplace, Video Feeds | Reels, Stories, Feed, Explore |
+| Location trust signal | Page **address** + hours displayed | Location tag, geo-relevant Reels |
+
+**Practical notes:**
+- **For most local service businesses in India, Facebook carries more weight** — it reaches an older, more local, more Tier-2/3 audience, and Marketplace is genuinely useful for trade services
+- **For anything visual and walk-in — food, salon, boutique, gym — Instagram earns its place.** Reels of your actual space work unusually well
+- Fill in your **Page address and opening hours** ([`../setup/01-page-and-business-manager.md`](../setup/01-page-and-business-manager.md)). Local intent signals depend on it, and people check before travelling
+- Use the **same offer code across both platforms** but vary the pre-filled WhatsApp message per ad — that's how you find out which platform actually delivered the footfall
+- Don't add Instagram-only creative if you can't shoot vertical video. A cropped 4:5 in a Reels slot looks amateurish and performs like it
+
+Full per-goal settings: [`../reference/facebook-vs-instagram.md`](../reference/facebook-vs-instagram.md)
+
+---
+
+**Related:** [`P00`](P00-BEST-low-budget-campaign.md) · [`P09`](P09-appointment-booking.md) · [`P13`](P13-facebook-page-likes-followers.md) for local credibility · [`../reference/targeting-india.md`](../reference/targeting-india.md)
